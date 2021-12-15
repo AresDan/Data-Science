@@ -1,1 +1,2 @@
-This file shows example of working with CUDA using C++ and NVIDIA CUDA. 
+## What is this code?
+This code shows example of working with CUDA using C++ and NVIDIA CUDA. 
